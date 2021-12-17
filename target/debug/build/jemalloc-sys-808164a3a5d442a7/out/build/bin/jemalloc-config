@@ -1,0 +1,83 @@
+#!/bin/sh
+
+usage() {
+	cat <<EOF
+Usage:
+  /Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out/bin/jemalloc-config <option>
+Options:
+  --help | -h  : Print usage.
+  --version    : Print jemalloc version.
+  --revision   : Print shared library revision number.
+  --config     : Print configure options used to build jemalloc.
+  --prefix     : Print installation directory prefix.
+  --bindir     : Print binary installation directory.
+  --datadir    : Print data installation directory.
+  --includedir : Print include installation directory.
+  --libdir     : Print library installation directory.
+  --mandir     : Print manual page installation directory.
+  --cc         : Print compiler used to build jemalloc.
+  --cflags     : Print compiler flags used to build jemalloc.
+  --cppflags   : Print preprocessor flags used to build jemalloc.
+  --cxxflags   : Print C++ compiler flags used to build jemalloc.
+  --ldflags    : Print library flags used to build jemalloc.
+  --libs       : Print libraries jemalloc was linked against.
+EOF
+}
+
+prefix="/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out"
+exec_prefix="/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out"
+
+case "$1" in
+--help | -h)
+	usage
+	exit 0
+	;;
+--version)
+	echo "0.0.0-0-g0000000000000000000000000000000000000000"
+	;;
+--revision)
+	echo "2"
+	;;
+--config)
+	echo "--disable-cxx --with-jemalloc-prefix=_rjem_ --with-private-namespace=_rjem_ --host=aarch64-apple-darwin --build=aarch64-apple-darwin --prefix=/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out build_alias=aarch64-apple-darwin host_alias=aarch64-apple-darwin CC=cc 'CFLAGS=-O0 -ffunction-sections -fdata-sections -fPIC -g -fno-omit-frame-pointer -arch arm64 -Wall' 'LDFLAGS=-O0 -ffunction-sections -fdata-sections -fPIC -g -fno-omit-frame-pointer -arch arm64 -Wall' 'CPPFLAGS=-O0 -ffunction-sections -fdata-sections -fPIC -g -fno-omit-frame-pointer -arch arm64 -Wall'"
+	;;
+--prefix)
+	echo "/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out"
+	;;
+--bindir)
+	echo "/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out/bin"
+	;;
+--datadir)
+	echo "/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out/share"
+	;;
+--includedir)
+	echo "/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out/include"
+	;;
+--libdir)
+	echo "/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out/lib"
+	;;
+--mandir)
+	echo "/Users/haitran/Learn_NEAR/NFT/target/debug/build/jemalloc-sys-808164a3a5d442a7/out/share/man"
+	;;
+--cc)
+	echo "cc"
+	;;
+--cflags)
+	echo "-std=gnu11 -Wall -Wshorten-64-to-32 -Wsign-compare -Wundef -Wno-format-zero-length -pipe -g3 -O3 -funroll-loops -O0 -ffunction-sections -fdata-sections -fPIC -g -fno-omit-frame-pointer -arch arm64 -Wall"
+	;;
+--cppflags)
+	echo "-O0 -ffunction-sections -fdata-sections -fPIC -g -fno-omit-frame-pointer -arch arm64 -Wall -D_REENTRANT"
+	;;
+--cxxflags)
+	echo ""
+	;;
+--ldflags)
+	echo "-O0 -ffunction-sections -fdata-sections -fPIC -g -fno-omit-frame-pointer -arch arm64 -Wall "
+	;;
+--libs)
+	echo "-lpthread"
+	;;
+*)
+	usage
+	exit 1
+esac

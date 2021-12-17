@@ -1,0 +1,10 @@
+/Users/haitran/Learn_NEAR/NFT/target/debug/deps/lazy_static_include-f3efbb1fbf290ee1.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_array.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_bytes.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_str.rs
+
+/Users/haitran/Learn_NEAR/NFT/target/debug/deps/liblazy_static_include-f3efbb1fbf290ee1.rlib: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_array.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_bytes.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_str.rs
+
+/Users/haitran/Learn_NEAR/NFT/target/debug/deps/lazy_static_include-f3efbb1fbf290ee1.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_array.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_bytes.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_str.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_array.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_bytes.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/lazy-static-include-3.0.5/src/macro_include_str.rs:

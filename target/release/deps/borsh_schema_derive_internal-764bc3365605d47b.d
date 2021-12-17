@@ -1,0 +1,10 @@
+/Users/haitran/Learn_NEAR/NFT/target/release/deps/borsh_schema_derive_internal-764bc3365605d47b.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs
+
+/Users/haitran/Learn_NEAR/NFT/target/release/deps/libborsh_schema_derive_internal-764bc3365605d47b.rlib: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs
+
+/Users/haitran/Learn_NEAR/NFT/target/release/deps/borsh_schema_derive_internal-764bc3365605d47b.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/helpers.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/enum_schema.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.8.1/src/struct_schema.rs:

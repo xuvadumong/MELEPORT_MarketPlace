@@ -1,0 +1,11 @@
+/Users/haitran/Learn_NEAR/NFT/target/debug/deps/slash_formatter-cb2bb84b7e52e3fc.rmeta: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs
+
+/Users/haitran/Learn_NEAR/NFT/target/debug/deps/libslash_formatter-cb2bb84b7e52e3fc.rlib: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs
+
+/Users/haitran/Learn_NEAR/NFT/target/debug/deps/slash_formatter-cb2bb84b7e52e3fc.d: /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs /Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs
+
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/lib.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/backslash.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/file_separator_build.rs:
+/Users/haitran/.cargo/registry/src/github.com-1ecc6299db9ec823/slash-formatter-3.1.1/src/slash.rs:
