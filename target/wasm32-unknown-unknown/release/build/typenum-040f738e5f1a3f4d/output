@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/haitran/Learn_NEAR/NFT/target/wasm32-unknown-unknown/release/build/typenum-040f738e5f1a3f4d/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/haitran/Learn_NEAR/NFT/target/wasm32-unknown-unknown/release/build/typenum-040f738e5f1a3f4d/out/op.rs
