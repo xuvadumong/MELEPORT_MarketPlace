@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/market-contract/target/wasm32-unknown-unknown/release/build/typenum-50328022b22ca7ad/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/haitran/Hackathon_NEAR/NEAR_COURCE_K2/nft-marketplace-tutorial/market-contract/target/wasm32-unknown-unknown/release/build/typenum-50328022b22ca7ad/out/op.rs
